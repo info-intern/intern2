@@ -1,8 +1,6 @@
 # 手元でだけ使うファイル（このリポジトリは公開されるのでコミットしない）
 CLAUDE.md
 reference.md
-prompt.md
-README.md
 
 # 作業用
 tasks/
